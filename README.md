@@ -96,6 +96,6 @@ Requirements:
 
 ## 👤 Author
 - Tarek Abu Ali — tarikkmagdy@gmail.com — https://github.com/TarikkMagdy — https://www.linkedin.com/in/tarekk05
-
+- Abdallah Adel Shabaan Abdallah - abdoadelshabaan@gmail.com - https://github.com/abdallahade1 - https://www.linkedin.com/in/abdallah-adel-02123a1b0/
 ---
 If you find this useful, please ⭐ the repo and share feedback!
