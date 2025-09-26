@@ -98,5 +98,7 @@ Requirements:
 - Tarek Abu Ali — tarikkmagdy@gmail.com — https://github.com/TarikkMagdy — https://www.linkedin.com/in/tarekk05
 - Abdallah Adel Shabaan Abdallah - abdoadelshabaan@gmail.com - https://github.com/abdallahade1 - https://www.linkedin.com/in/abdallah-adel-02123a1b0/
 - Abdelrhman Al Ghonimi - abdelrhmanalghonimi@gmail.com  -  https://github.com/Abdelrhman-AlGhonimi - https://www.linkedin.com/in/abdelrhman-al-ghonimi-2005902a6/
+- Mohamed Alaa Mohamed Ahmed elboraay - https://www.linkedin.com/in/mohamed-alaa-62206229b - https://github.com/MohamedAlaa2005
+- Yousef Malak Ibrahim - yousefmalak55@gmail.com - https://github.com/USIF-Andreas
 ---
 If you find this useful, please ⭐ the repo and share feedback!
